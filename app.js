@@ -22,7 +22,6 @@ const NAV_ITEMS = [
   ["pesanan-ds.html","PESANAN DS","pesanan-ds"],
   ["stok-ds.html","Stok DS (ON PROGRESS)","stok-ds"],
   ["sku-master.html","SKU Master","sku-master"],
-  ["ds-smntara.html","DS smntara","ds-smntara"]
 ];
 
 function renderNavigation(activePage){
